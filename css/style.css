@@ -53,6 +53,14 @@ h1,h2,h3,h4,h5,h6{
     margin: 0 auto;
 }
 
+.clocks{
+    background-color: #fff; 
+    color: #000; 
+    padding:5px 20px;
+    font-weight: 700;
+    font-size: 25px;
+}
+
 h1{
     font-size: 50px;
 }
